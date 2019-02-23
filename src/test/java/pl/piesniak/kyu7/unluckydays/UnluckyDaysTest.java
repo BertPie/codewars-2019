@@ -1,4 +1,4 @@
-package pl.piesniak.unluckydays;
+package pl.piesniak.kyu7.unluckydays;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package pl.piesniak.getmiddle;
+package pl.piesniak.kyu7.getmiddle;
 
 public class GetMiddle {
     public static String getMiddle(String word) {

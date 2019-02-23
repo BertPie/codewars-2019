@@ -1,4 +1,4 @@
-package pl.piesniak.mumbling;
+package pl.piesniak.kyu7.mumbling;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

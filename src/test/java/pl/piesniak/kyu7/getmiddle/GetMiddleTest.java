@@ -1,4 +1,4 @@
-package pl.piesniak.getmiddle;
+package pl.piesniak.kyu7.getmiddle;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

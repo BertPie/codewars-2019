@@ -1,4 +1,4 @@
-package pl.piesniak.unluckydays;
+package pl.piesniak.kyu7.unluckydays;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

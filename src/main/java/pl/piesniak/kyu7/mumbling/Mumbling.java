@@ -1,4 +1,4 @@
-package pl.piesniak.mumbling;
+package pl.piesniak.kyu7.mumbling;
 
 public class Mumbling {
 
