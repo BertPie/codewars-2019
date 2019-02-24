@@ -1,6 +1,6 @@
-package pl.piesniak.kyu.morsecode;
+package pl.piesniak.kyu2.morsecode3;
 
-import pl.piesniak.kyu6.morsecode.MorseCode;
+import pl.piesniak.kyu6.morsecode1.MorseCode;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

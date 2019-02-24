@@ -1,6 +1,6 @@
 package pl.piesniak.kyu4.morsecode2;
 
-import pl.piesniak.kyu6.morsecode.MorseCode;
+import pl.piesniak.kyu6.morsecode1.MorseCode;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

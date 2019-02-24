@@ -1,4 +1,4 @@
-package pl.piesniak.kyu6.morsecode;
+package pl.piesniak.kyu6.morsecode1;
 
 public class MorseCode {
 
