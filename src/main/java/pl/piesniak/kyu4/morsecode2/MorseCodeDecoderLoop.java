@@ -5,7 +5,7 @@ import pl.piesniak.kyu6.morsecode.MorseCode;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MorseCodeDecoderRegex {
+public class MorseCodeDecoderLoop {
     public static String decodeBits(String bits) {
         String trimmedBits = bits.replaceAll("^0+|0+$", "");
         int rate = getRate(trimmedBits);
